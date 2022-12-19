@@ -1,6 +1,7 @@
 {
   "name": "admin_dashboard",
   "version": "0.1.0",
+  "homepage": "https://graceful-sunshine-fa7e76.netlify.app/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
